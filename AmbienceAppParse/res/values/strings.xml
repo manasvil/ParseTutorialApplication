@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ambience</string>
+    <string name="Username">Username</string>
+    <string name="Password">Password</string>
+    <string name="LoginBtn">Login</string>
+    <string name="SignupBtn">Sign Up</string>
+    <string name="LogoutBtn">Log Out</string>
+    <string name="Welcome">Welcome!</string>
+    <string name="action_search">Search!</string>
+    <string name="action_settings">Search!</string>
+    
+    
+    
+    
+   <string name="hello_world">Hello world!</string>
+   <string name="Recording">What do you hear today?</string>
+   <string name="start">Start</string>
+   <string name="stop">Stop</string>
+   <string name="play">Play</string>
+   
+   
+   
+     <string name="post">Post</string>
+    <string name="prompt_post">Post</string>
+    <string name="progress_post">Posting&#8230;</string>
+    <string name="activity_post_title">Create a Post</string>
+    <string name="character_count_placeholder">0/140</string>
+   
+
+
+</resources>
